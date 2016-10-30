@@ -1,2 +1,2 @@
 # hello-world
-just test github repository
+To learn how to use github repository!
